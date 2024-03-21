@@ -1,11 +1,3 @@
-# By submitting this assignment, I agree to the following:
-# “Aggies do not lie, cheat, or steal, or tolerate those who do”
-# “I have not given or received any unauthorized aid on this assignment”
-#
-# Names: Michael Hurtado
-# Section: 569
-# Assignment: 11.13 LAB: Weather Data
-# Date: 13 11 2022
 # setting variables
 list = []
 max_temp = 0
